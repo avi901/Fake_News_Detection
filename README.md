@@ -27,7 +27,7 @@
 
 2. ```pip install -r requirements.txt ```  to install all the dependencies
 
-3. **Download Data Set**
+3. [**Download Data Set**](https://www.kaggle.com/c/fake-news/data?select=train.csv)
  
 4. ```Fake_News_Prediction.ipynb```
 
